@@ -118,8 +118,9 @@
                             <td style="padding-left:15px;">
                                 <g:plusone size="medium" href="https://www.trex-game.skipser.com"></g:plusone>
                             </td>
-                            <td><a href="https://twitter.com/share" class="twitter-share-button" data-text="Google Chrome's running T-rex dino game Hacked!" data-url="https://www.trex-game.skipser.com" data-via="skipser" data-hashtags="chrome,trexgame"></a></td>
-                        </tr>
+                            <td><a href="https://twitter.com/share" class="twitter-share-button" data-text="Google Chrome's running T-rex dino game Hacked!" data-
+                        
+</tr>
                     </table>
                 </div>
             </div>
